@@ -1,0 +1,4 @@
+If you're really interested in making this project, feel free to reach out to me.
+I don't have any good wiring diagrams available at this time, but could come up with something if you're really serious about making this.
+
+Also note that the photos show it in a stage where I was powering it from 4 AA batteries.  However, after I added the mini MP3 player (not pictured), the batteries were no longer powerful enough.  I replaced the battery pack with a 5V electric wall adapter.
